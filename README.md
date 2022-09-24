@@ -1,2 +1,13 @@
-# Tugas_Kelompok
-Aldi_Ragil_Adliansyah
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tugas 1 Git Version Control (Kelompok)</title>
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
+
+<h1>kontribusi pada repositori</h1>
+<p>ini adalah commit keempat saya</p>
+
+</body>
+</html>
